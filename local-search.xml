@@ -4,36 +4,27 @@
   
   
   <entry>
-    <title>测试2</title>
-    <link href="/2025/04/05/%E6%B5%8B%E8%AF%952/"/>
-    <url>/2025/04/05/%E6%B5%8B%E8%AF%952/</url>
+    <title>博客搭建</title>
+    <link href="/2025/04/05/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    <url>/2025/04/05/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</url>
     
-    <content type="html"><![CDATA[<p> 这是测试2</p>]]></content>
+    <content type="html"><![CDATA[<p>第一次尝试搭建自己的博客哈哈哈，一共用了一天半，只是刚刚弄好了框架，难抑激动的心情写下第一篇文章，记录下从哪里获取的教程。</p><ul><li>github和hexo绑定、配置nodejs等前期工作参考的是这篇文章<a href="https://zhuanlan.zhihu.com/p/102592286">从零开始搭建个人博客（超详细） - 知乎</a></li><li>然后从GitHub选了个简约好看的主题Fluid（狂赞，第一次感受到开源的力量），后面很多写文章的技巧还要从中学习<a href="https://github.com/fluid-dev/hexo-theme-fluid?tab=readme-ov-file">Fluid</a></li></ul><p>大概就是这样。搭建的过程可谓是一波三折，中间可能是<code>_config.yml</code>文件弄错了，又重新配置了一次，但还好最后还是弄出来了，希望能够坚持写下去吧。</p>]]></content>
     
+    
+    <categories>
+      
+      <category>学习</category>
+      
+    </categories>
     
     
     <tags>
       
-      <tag>测试</tag>
+      <tag>学习</tag>
       
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>测试1</title>
-    <link href="/2025/04/05/%E6%B5%8B%E8%AF%951/"/>
-    <url>/2025/04/05/%E6%B5%8B%E8%AF%951/</url>
-    
-    <content type="html"><![CDATA[<p>z这是测试1</p>]]></content>
-    
-    
-    
-    <tags>
+      <tag>博客</tag>
       
-      <tag>测试</tag>
+      <tag>第一次尝试</tag>
       
     </tags>
     
